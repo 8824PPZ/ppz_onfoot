@@ -53,7 +53,7 @@ const FULL_MARATHON_RUN_TITLE = IS_CHINESE ? '全程马拉松' : 'Full Marathon'
 const HALF_MARATHON_RUN_TITLE = IS_CHINESE ? '半程马拉松' : 'Half Marathon';
 const MORNING_RUN_TITLE = IS_CHINESE ? '清晨修炼' : 'Morning Run';
 const MIDDAY_RUN_TITLE = IS_CHINESE ? '午间修炼' : 'Midday Run';
-const AFTERNOON_RUN_TITLE = IS_CHINESE ? '午后修炼' : 'Afternoon Run';
+const AFTERNOON_RUN_TITLE = IS_CHINESE ? '御剑回家' : 'Afternoon Run';
 const EVENING_RUN_TITLE = IS_CHINESE ? '傍晚修炼' : 'Evening Run';
 const NIGHT_RUN_TITLE = IS_CHINESE ? '夜晚修炼' : 'Night Run';
 
